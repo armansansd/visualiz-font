@@ -96,10 +96,10 @@ don't forget to change it to the right name.
 
 For those who need a tutorial for the command line, here are some useful links ;
 
-<https://gitlab.com/tseqi/git-tuto>
-<http://relearn.be/2013/r/cheat-sheet::git-and-the-command-line.html>
-<http://i.liketightpants.net/and/absolute-beginners-unix-for-art-students-part-2>
-
+<https://gitlab.com/tseqi/git-tuto>   
+<http://relearn.be/2013/r/cheat-sheet::git-and-the-command-line.html>    
+<http://i.liketightpants.net/and/absolute-beginners-unix-for-art-students-part-2>    
+ 
 
 ---
 
