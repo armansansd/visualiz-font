@@ -1,0 +1,43 @@
+.area1{
+	mix-blend-mode   : multiply;
+}
+.toolBox{
+	width            : 150px;
+	height           : auto;
+	padding          : 10px;
+	border           : solid 1px;
+	position         : absolute;
+	font-family      : sans-serif;
+	bottom           : 40px;
+	margin           : 0 0 0 140px;
+}
+
+.button{
+	width            : auto;
+	height           : auto;
+	padding          : 5px;
+	position         : relative;	
+	border           : solid 1px;
+	margin           : 0 0 10px 0 ;
+}
+.active{
+	background       : #FBE69A;
+}
+.button:hover{
+	box-shadow       : 3px 3px 1px #888888;
+}
+
+.button:active{
+	-webkit-transform: translate(3px, 3px);
+	-moz-transform   : translate(3px, 3px);
+	-ms-transform    : translate(3px, 3px);
+	-o-transform     : translate(3px, 3px);
+	transform        : translate(3px, 3px);
+	    
+	box-shadow       : none;
+	
+}
+
+h4{
+	margin           : 0 0 10px 0;
+}

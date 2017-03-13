@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont ttLibVersion="3.6">
+
+  <name>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Z Cispeo
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Mini
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      1.000;UKWN;ZCispeo-Mini
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Z Cispeo Mini
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 1.000
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      ZCispeo-Mini
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Lucas Descroix
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Lucas Descroix
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      http://lucasdescroix.fr
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      http://lucasdescroix.fr
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Z Cispeo Mini
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      1.000;UKWN;ZCispeo-Mini
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Z Cispeo Mini
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.000
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      ZCispeo-Mini
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Lucas Descroix
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Lucas Descroix
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://lucasdescroix.fr
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://lucasdescroix.fr
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      Z Cispeo
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      Mini
+    </namerecord>
+  </name>
+
+</ttFont>

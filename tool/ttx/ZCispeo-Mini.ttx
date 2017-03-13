@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.6">
+  <GlyphOrder src="ZCispeo-Mini.GlyphOrder.ttx"/>
+  <head src="ZCispeo-Mini._h_e_a_d.ttx"/>
+  <hhea src="ZCispeo-Mini._h_h_e_a.ttx"/>
+  <maxp src="ZCispeo-Mini._m_a_x_p.ttx"/>
+  <OS_2 src="ZCispeo-Mini.O_S_2f_2.ttx"/>
+  <hmtx src="ZCispeo-Mini._h_m_t_x.ttx"/>
+  <cmap src="ZCispeo-Mini._c_m_a_p.ttx"/>
+  <fpgm src="ZCispeo-Mini._f_p_g_m.ttx"/>
+  <prep src="ZCispeo-Mini._p_r_e_p.ttx"/>
+  <cvt src="ZCispeo-Mini._c_v_t.ttx"/>
+  <loca src="ZCispeo-Mini._l_o_c_a.ttx"/>
+  <glyf src="ZCispeo-Mini._g_l_y_f.ttx"/>
+  <name src="ZCispeo-Mini._n_a_m_e.ttx"/>
+  <post src="ZCispeo-Mini._p_o_s_t.ttx"/>
+  <gasp src="ZCispeo-Mini._g_a_s_p.ttx"/>
+  <GDEF src="ZCispeo-Mini.G_D_E_F_.ttx"/>
+  <GPOS src="ZCispeo-Mini.G_P_O_S_.ttx"/>
+  <GSUB src="ZCispeo-Mini.G_S_U_B_.ttx"/>
+  <DSIG src="ZCispeo-Mini.D_S_I_G_.ttx"/>
+</ttFont>
