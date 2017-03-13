@@ -6,7 +6,7 @@ This tool was created for a workshop as an introduction to font variable manipul
 
 We are principally using the table named ```FontName.g_l_y_f.ttx```, this table is an xml file that provides all the positions of the points, contour by contour, letter by letter. We transform it into a json object with xml2js in order to realise a data-visualisation of the font with d3.js and manipulate the data.   
 
-
+```
 .
 ├── font-archive                        # to store your generated font
 ├── index.html   
@@ -54,6 +54,7 @@ We are principally using the table named ```FontName.g_l_y_f.ttx```, this table 
 │   └── MyFOnt.ttf
 └── xml-rw.php                          # php script to save the new data into MyFOnt._g_l_y_f.ttx
 
+```
 
 
 **First you need to install _fonttool (ttx)_ :**
